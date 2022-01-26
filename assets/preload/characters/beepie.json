@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "beepie idle"
+		},
+		{
+			"offsets": [
+				-9,
+				135
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "beepie up"
+		},
+		{
+			"offsets": [
+				-34,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "beepie down"
+		},
+		{
+			"offsets": [
+				-34,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "beepie down"
+		},
+		{
+			"offsets": [
+				-23,
+				128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "beepie up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				117
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "beepie right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				104
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "beepie left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				104
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "beepie left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				109
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "beepie right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/beepienormal_assets",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "beepie",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		175,
+		255
+	],
+	"camera_position": [
+		220,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
